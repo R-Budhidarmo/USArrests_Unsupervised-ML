@@ -1,6 +1,6 @@
 ## Unsupervised Machine Learning: PCA & Clustering - US Arrests Dataset
 
-In this project, unsupervised machine learning is applied on the the US arrest dataset from 1973.
+In this project, unsupervised machine learning is applied on the US arrest dataset from 1973.
 
 </br>The main focus was to leverage Principal Component Analysis (PCA) & two different clustering methods (agglomerative hierarchical clustering & K-means clustering) to gain insights into which US states were likely to be relatively safe to live in (if we were to move within the US in 1973).
 
